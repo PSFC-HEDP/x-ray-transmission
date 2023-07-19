@@ -6,3 +6,5 @@ This notebook is used to plot and fit transmission data taken from the Proto XRD
 It requires two uncommon python packages
 - `pip install mcareader`
 - `pip install xraydb`
+
+To create MCA files from spectrometer readings you will need the (driver)[https://www.amptek.com/software/dp5-digital-pulse-processor-software/dpp-installation-instructions] installed here.
