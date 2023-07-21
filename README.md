@@ -12,7 +12,7 @@ This notebook is used to plot and fit transmission data taken from the [Proto XR
   - `pip install xraydb` (optional, only used in last cell)
 
 
-# (Alternative non-MATLAB Version) `x-ray-transmission.ipynb`
+## (Alternative non-MATLAB Version) `x-ray-transmission.ipynb`
 
 This notebook is used to plot and fit transmission data taken from the [Proto XRD system](https://leia.psfc.mit.edu/wiki/index.php/PROTO-XRD
 ).
