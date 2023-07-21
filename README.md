@@ -1,6 +1,5 @@
-# `x-ray-transmission-V2.ipynb`
-
 Author: Niels Vanderloo with inspiration from a MATLAB script by Jacob Pearcy
+# `x-ray-transmission-V2.ipynb`
 
 This notebook is used to plot and fit transmission data taken from the [Proto XRD system](https://leia.psfc.mit.edu/wiki/index.php/PROTO-XRD).
 
@@ -14,7 +13,6 @@ This notebook is used to plot and fit transmission data taken from the [Proto XR
 
 
 # (Alternative non-MATLAB Version) `x-ray-transmission.ipynb`
-Author: Niels Vanderloo with inspiration from a MATLAB script by Jacob Pearcy
 
 This notebook is used to plot and fit transmission data taken from the [Proto XRD system](https://leia.psfc.mit.edu/wiki/index.php/PROTO-XRD
 ).
