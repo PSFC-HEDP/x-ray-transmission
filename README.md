@@ -1,6 +1,6 @@
 ![image](https://github.com/PSFC-HEDP/x-ray-transmission/assets/45517947/4e65d407-afe7-4b6d-ae99-e0b909714842)
 
-`x-ray-transmission`
+# `x-ray-transmission`
 
 This repository contains two notebooks used to plot and fit transmission data taken from the [Proto XRD system](https://leia.psfc.mit.edu/wiki/index.php/PROTO-XRD). The recommended one is `x-ray-transmission-V2.ipynb` but requires MATLAB to be installed. The one with less functionality (less materials can be fit well) but does not require MATLAB is `x-ray-transmission.ipynb`.
 
