@@ -1,4 +1,4 @@
-![image](https://github.com/PSFC-HEDP/x-ray-transmission/assets/45517947/929055d3-c9dc-4019-805b-2321eba09c26)
+<img src="https://github.com/PSFC-HEDP/x-ray-transmission/assets/45517947/929055d3-c9dc-4019-805b-2321eba09c26" width="500">
 
 # `x-ray-transmission`
 
